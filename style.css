@@ -23,3 +23,14 @@ main{
     align-items: center;
     background-color: #4F4F4F;
 }
+
+.cartao{
+
+width: 260px;
+height: 200px;
+}
+
+.cartao-imagem{
+
+width: 100%;
+}
